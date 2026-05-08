@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://ahmednobii.me/sitemap.xml
+Sitemap: https://ahmednobi.me/sitemap.xml
